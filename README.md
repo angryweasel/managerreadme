@@ -12,6 +12,11 @@ Your daily work will come largely from the feature team you work with - so our c
 
 If I'm traveling, I will plan to have our 1o1 during our scheduled time, but on some occasions I may need to cancel if schedule and timezone oddities make our regular time impossible. Even if we need to cancel, I can always make time for a slack conversation or video f2f at some overlapping time. As a manager, I am here to serve you and your needs. A big and important part of my job is helping you to be successful, so use me for that as much as you want.
 
+### Your Role as a Leader
+Improving the quality culture in an organization like ours requires leadership. As testing and quality experts you will need to influence the team to change, improve, or add processes and tools to our systems. At times, you may need to change the mindset or beliefs of your team as you help them improve the way they approach making quality software.
+
+I am committed to helping you become better leaders, and we’ll talk about leadership and influence frequently during our 1o1s. I expect you to let me know your own leadership challenges, and I will do everything I can to help you succeed as you address those challenges. While I could use my position to add “weight” to your influence, I will step in only on very rare occasions. I am here for advice and ideas to help you as needed, but I have complete trust in you to lead your team from a quality point of view.
+
 ### How I manage
 I read a lot about management and leadership. Just like when I started reading testing books, I found that some had good ideas, some were awful, and some were in between. Eventually, I was able to discern good from bad from irrelevant; and more importantly, begin to form my own opinions. I'm not sure if the books guided me, or if I just had more acceptance for the books that aligned with my values and experiences. Nevertheless, my management and leadership philosophy cannot be explained without a few references to existing ideas.
 
