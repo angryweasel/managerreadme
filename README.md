@@ -31,7 +31,7 @@ For more on an alliance as a manager/employee relationship, check out http://www
 Regardless of whether you work 10 feet from me or 10,000 kilometers, your success relies on your independence and autonomy. My role as a manager is to provide a framework you can work in (e.g. help define your role and mission), and then get out of your way. Unity employees are capable of working with others and figuring things out - I'm here for guidance, coaching, and to help otherwise as needed. If you have questions - or need advice - or just someone to bounce an idea off of, I'm always available. I will also step in and apply additional guidance from time to time. It doesn't mean you've made a mistake or you're doing something wrong - it just means that I spotted an opportunity where I think I can help you. The One Minute Manager (https://en.wikipedia.org/wiki/The_One_Minute_Manager) also covers a lot of this philosophy.
 
 
-### 3. Improvement is a Prioirity
+### 3. Improvement is a Priority
 I use two different frameworks to think about employee growth. The first is from Max Landsberg - but I first read about it in Michael Lopp's fantastic book, Managing Humans (http://managinghumans.com/). It's a quadrant of skill and will. You may spend time in each of the parts of the quadrant from time to time, but my role as a manager / coach is to guide you towards high skill, high will work as much as possible. This is where you provide the most value to Unity, and where your strengths and skills grow the fastest.
 
 ![skill and will](http://www.leadershipissues.com/wp-content/uploads/2016/02/will.gif "skill and will")
