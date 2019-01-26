@@ -1,24 +1,21 @@
 #  Working for Me @alan
 
-This is the owner's manual of sorts, or a "manager readme" for anyone who works directly for me. Honestly, you'd figure all of this out within your first month, but since there's so much other stuff being fired at you from all directions when you start at Unity (believe me, I remember my own experience), I hope this provides some necessary insight and overview.
+This is the owner's manual of sorts, or a "manager readme" for anyone who works directly for me. Honestly, you'd figure all of this out within your first month or so with me, but since there's so much other stuff being fired at you from all directions when you start at Unity (believe me, I remember my own experience), I hope this provides some necessary insight and overview.
 
-### The Team
-I manage individual contributors (ICs) in Seattle, Montreal, Austin, and Odessa, and have leads in Helsinki, San Francisco (indirectly), and Copenhagen. You'll eventually get to know all of those people, but start by getting to know the team members in your home office.
+Also worth mentioning is that if you're not new to the company, but new to me, all of this should be just as relevant.
 
 ### 1 on 1 Meetings
-You should schedule a weekly, 30 minute conversation with me - I prefer that you schedule the meeting, as you can pick a time that works for your time zone, and so you can avoid interrupting other meetings or work. 
+I value connecting with my team regularly. You should schedule a weekly, 30 minute conversation with me - I prefer that you schedule the meeting, as you can pick a time that works for your time zone, and so you can avoid interrupting other meetings or work. 
 
-Your daily work will come largely from the feature team you work with - so our chats will be less about status of your work, and more about how the work is going, how I can be a sounding board for your ideas, and if there's anything I can do to guide you, coach you, or do anything else that will help you become a better test and quality expert for your team. A bit more on this is in the How I Manage section below.
-
-If I'm traveling, I will plan to have our 1o1 during our scheduled time, but on some occasions I may need to cancel if schedule and timezone oddities make our regular time impossible. Even if we need to cancel, I can always make time for a slack conversation or video f2f at some overlapping time. As a manager, I am here to serve you and your needs. A big and important part of my job is helping you to be successful, so use me for that as much as you want.
+If I'm traveling, I will plan to have our 1o1 during our scheduled time, but on some occasions I may need to cancel if schedule and timezone oddities make our regular time impossible. Even if we need to cancel, I can always make time for a slack conversation or video f2f at some overlapping time. As a manager, I am here to serve you and your needs. A massively important part of my job is helping you to be successful, so use me for that as much as you want.
 
 ### Your Role as a Leader
-Improving the quality culture in an organization like ours requires leadership. As testing and quality experts you will need to influence the team to change, improve, or add processes and tools to our systems. At times, you may need to change the mindset or beliefs of your team as you help them improve the way they approach making quality software.
+My job as a leader is to grow more leaders. Wheter you're leading people, or solving customer problems, you should be one to influence the team to change, improve, or add processes and tools to our systems. At times, you may need to change the mindset or beliefs of your team as you help them improve the way they approach making quality software.
 
 I am committed to helping you become better leaders, and we’ll talk about leadership and influence frequently during our 1o1s. I expect you to let me know your own leadership challenges, and I will do everything I can to help you succeed as you address those challenges. While I could use my position to add “weight” to your influence, I will step in only on very rare occasions. I am here for advice and ideas to help you as needed, but I have complete trust in you to lead your team from a quality point of view.
 
 ### How I manage
-I read a lot about management and leadership. Just like when I started reading testing books, I found that some had good ideas, some were awful, and some were in between. Eventually, I was able to discern good from bad from irrelevant; and more importantly, begin to form my own opinions. I'm not sure if the books guided me, or if I just had more acceptance for the books that aligned with my values and experiences. Nevertheless, my management and leadership philosophy cannot be explained without a few references to existing ideas.
+I read a lot about management and leadership. Just like when I started reading testing and quality books, I found that some had good ideas, some were awful, and some were in between. Eventually, I was able to discern good from bad from irrelevant; and more importantly, begin to form my own opinions. I'm not sure if the books guided me, or if I just had more acceptance for the books that aligned with my values and experiences. Nevertheless, my management and leadership philosophy cannot be explained without a few references to existing ideas.
 
 In short, the following 3 points sum up a large part of my management approach.
 
