@@ -1,24 +1,24 @@
 #  Working for Me @alan
 
-This is the owner's manual of sorts, or a "manager readme" for anyone who works directly for me. Honestly, you'd figure all of this out within your first month or so with me, but since there's so much other stuff being fired at you from all directions when you start at Unity (believe me, I remember my own experience), I hope this provides some necessary insight and overview.
+This is the owner's manual of sorts, or a "manager readme" for anyone who works directly for me. Honestly, you'd figure all of this out within your first month or so with me, but since there's so much other stuff being fired at you from all directions when you start at Unity - or even if you change teams to work for me (believe me, I remember my own experiences), I hope this provides some necessary insight and overview.
 
 Also worth mentioning is that if you're not new to the company, but new to me, all of this should be just as relevant.
 
 ### 1 on 1 Meetings
-I value connecting with my team regularly. You should schedule a weekly, 30 minute conversation with me - I prefer that you schedule the meeting, as you can pick a time that works for your time zone, and so you can avoid interrupting other meetings or work. 
+I value connecting with my team regularly. I'll set up a weekly 30-minute meeting with you (but encourage you to suggest times that work best for you). I'll keep our set time 90% of the time, but sometimes I (or Holly, who helps me with my calendar) will need to reschedule. This should be rare, and you can suggest different times as needed.
 
-If I'm traveling, I will plan to have our 1o1 during our scheduled time, but on some occasions I may need to cancel if schedule and timezone oddities make our regular time impossible. Even if we need to cancel, I can always make time for a slack conversation or video f2f at some overlapping time. As a manager, I am here to serve you and your needs. A massively important part of my job is helping you to be successful, so use me for that as much as you want.
+If I'm traveling (not likely until at least 2021), I will plan to have our 1o1 during our scheduled time, but on some occasions I may need to cancel if schedule and timezone oddities make our regular time impossible. Even if we need to cancel, I can always make time for a slack conversation or video f2f at some overlapping time. As a manager, I am here to serve you and your needs. A massively important part of my job is helping you to be successful, so use me for that as much as you want.
 
 #### Skip level 1 on 1 Meetings
-I'm open to ad-hoc, or scheduled (once every two weeks, please) meetings with anyone who wants to chat. Same rules as above apply to our schedule.
+I'm open to ad-hoc, or scheduled meetings with anyone who wants to chat. Same rules as above apply to our schedule.
 
 ### Your Role as a Leader
-My job as a leader is to grow more leaders. Whether you're leading people, or solving customer problems, you should be one to influence the team to change, improve, or add processes and tools to our systems. At times, you may need to change the mindset or beliefs of your team as you help them improve the way they approach making quality software.
+My job as a leader is to grow more leaders. Whether you're leading people, solving customer problem, or working with other teams, you should be able and willing to influence the team to change, improve, or add processes and tools to our systems. At times, you may need to change the mindset or beliefs of your team as you help them improve the way they approach making quality software.
 
-I am committed to helping you become better leaders, and we’ll talk about leadership and influence frequently during our 1o1s. I expect you to let me know your own leadership challenges, and I will do everything I can to help you succeed as you address those challenges. While I could use my position to add “weight” to your influence, I will step in only on very rare occasions. I am here for advice and ideas to help you as needed, but I have complete trust in you to lead your team from a quality point of view.
+I am committed to helping you become better leaders, and we’ll talk about leadership and influence frequently during our 1o1s. I expect you to let me know your own leadership challenges, and I will do everything I can to help you succeed as you address those challenges. While I could use my position to add “weight” to your influence, I will step in only on very rare occasions. I am here for advice and ideas to help you as needed, but I have complete trust in you to lead your team and your peers as needed.
 
 ### How I manage
-I read and study a lot about management and leadership. Just like when I started reading testing and quality books, I found that some had good ideas, some were awful, and some were in between. Eventually, I was able to discern good from bad from irrelevant; and more importantly, begin to form my own opinions. I'm not sure if the books guided me, or if I just had more acceptance for the books that aligned with my values and experiences. Nevertheless, my management and leadership philosophy cannot be explained without a few references to existing ideas.
+I read and study a lot about management and leadership - and a fair number of books about software engineering and architecture. I find that some books have good ideas, some are awful, and some are in between. What I've learned most from gathering all of these ideas from books is to form my own opinions. I'm not sure if the books guided me, or if I just had more acceptance for the books that aligned with my values and experiences. Nevertheless, my management and leadership philosophy cannot be explained without a few references to existing ideas.
 
 In short, the following 4 points sum up a large part of my management approach.
 
@@ -45,7 +45,7 @@ An exercise with this model is to simply list the work you do in a sprint (or in
 ### 4. Feedback is Critical - for Everyone
 I will use the Unity 'Fierce Feedback' model frequently, and I also follow the model from Radical Candor (https://radicalcandor.com)
 
-I will give you frequent feedback on your work and your impact. I've found that the value of feedback is highest when delivered as close as possible to the related action. When applicable, I will try to give feedback immediately, but it will often wait until our 1o1 meeting. We will have regular 3Q conversations, but I will NOT wait until our 3Q to give you important feedback. 
+I will give you frequent feedback on your work and your impact. I've found that the value of feedback is highest when delivered as close as possible to the related action. When applicable, I will try to give feedback immediately, but it will often wait until our 1o1 meeting. We will have regular (3x a year) 3Q conversations, but I will NOT wait until our 3Q to give you important feedback - good or bad. 
 
 Of course, I welcome your feedback too. I will make mistakes - but I want to learn and improve. I would especially like to know if there's something in this README that you don't think I'm doing. Or, if there's something I *am* doing that you think should be included here, let me know (or submit a PR with the change).
 
