@@ -5,9 +5,9 @@ This is the owner's manual of sorts, or a "manager readme" for anyone who works 
 Also worth mentioning is that if you're not new to the company, but new to me, all of this should be just as relevant.
 
 ### 1 on 1 Meetings
-I value connecting with my team regularly. I'll set up a weekly 30-minute meeting with you (but encourage you to suggest times that work best for you). I'll keep our set time 90% of the time, but sometimes I (or Holly, who helps me with my calendar) will need to reschedule. This should be rare, and you can suggest different times as needed.
+I value connecting with my team regularly. I'll set up a weekly 30-minute meeting with you (but encourage you to suggest times that work best for you). I'll keep our set time 90% of the time, but sometimes I (or Mel, who helps me with my calendar) will need to reschedule. This should be rare, and you can suggest different times as needed.
 
-If I'm traveling (not likely until at least 2021), I will plan to have our 1o1 during our scheduled time, but on some occasions I may need to cancel if schedule and timezone oddities make our regular time impossible. Even if we need to cancel, I can always make time for a slack conversation or video f2f at some overlapping time. As a manager, I am here to serve you and your needs. A massively important part of my job is helping you to be successful, so use me for that as much as you want.
+If I'm traveling (not likely until at least late 2021), I will plan to have our 1o1 during our scheduled time, but on some occasions I may need to cancel if schedule and timezone oddities make our regular time impossible. Even if we need to cancel, I can always make time for a slack conversation or video f2f at some overlapping time. As a manager, I am here to serve you and your need, and a massively important part of my job is helping you to be successful, so use me for that as much as you want.
 
 #### Skip level 1 on 1 Meetings
 I'm open to ad-hoc, or scheduled meetings with anyone who wants to chat. Same rules as above apply to our schedule.
