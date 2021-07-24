@@ -1,21 +1,26 @@
 #  Working for Me @alan
 
-This is the owner's manual of sorts, or a "manager readme" for anyone who works directly for me. Honestly, you'd figure all of this out within your first month or so with me, but since there's so much other stuff being fired at you from all directions when you start at Unity - or even if you change teams to work for me (believe me, I remember my own experiences), I hope this provides some necessary insight and overview.
+This is the owner's manual of sorts, or a "manager readme" for anyone who works in my org (or works with me). Honestly, you'd figure all of this out within your first month or so with me, but since there's so much other stuff being fired at you from all directions when you start at Unity - or even if you change teams to work for me (believe me, I remember my own experiences), I hope this provides some necessary insight and overview.
 
 Also worth mentioning is that if you're not new to the company, but new to me, all of this should be just as relevant.
 
 ### 1 on 1 Meetings
-I value connecting with my team regularly. I'll set up a weekly 30-minute meeting with you (but encourage you to suggest times that work best for you). I'll keep our set time 90% of the time, but sometimes I (or Mel, who helps me with my calendar) will need to reschedule. This should be rare, and you can suggest different times as needed.
+I value connecting with my team regularly. I'll set up a weekly 30-minute meeting with each of my direct reports (but encourage you to suggest times that may work better for you). I'll keep our set time 90% of the time, but sometimes I (or Erica, who helps me with my calendar) will need to reschedule. This should be rare, and you can suggest different times as needed.
 
-If I'm traveling (not likely until at least late 2021), I will plan to have our 1o1 during our scheduled time, but on some occasions I may need to cancel if schedule and timezone oddities make our regular time impossible. Even if we need to cancel, I can always make time for a slack conversation or video f2f at some overlapping time. As a manager, I am here to serve you and your need, and a massively important part of my job is helping you to be successful, so use me for that as much as you want.
+If I'm traveling (not likely until at least late 2021), I will plan to have our 1o1 during our scheduled time, but on some occasions I may need to cancel if schedule and timezone oddities make our regular time impossible. Even if we need to cancel, I can always make time for a slack conversation or video f2f at some overlapping time. As a manager, I am here to help you be successful in achieving your mission at Unity, so use me for that as much as you want.
 
 #### Skip level 1 on 1 Meetings
-I'm open to ad-hoc, or scheduled meetings with anyone who wants to chat. Same rules as above apply to our schedule.
+I'm open to ad-hoc, or scheduled meetings with anyone who wants to chat. Same rules as above apply to our schedule. I try (strive?) to have 1o1 meetings with everyone in the org, but sometimes the org grows faster than I can find time to get these things scheduled. If we don't have a recurring 1o1 on the calendar, feel free to schedule one.
 
 ### Your Role as a Leader
 My job as a leader is to grow more leaders. Whether you're leading people, solving customer problem, or working with other teams, you should be able and willing to influence the team to change, improve, or add processes and tools to our systems. At times, you may need to change the mindset or beliefs of your team as you help them improve the way they approach making quality software.
 
 I am committed to helping you become better leaders, and we’ll talk about leadership and influence frequently during our 1o1s. I expect you to let me know your own leadership challenges, and I will do everything I can to help you succeed as you address those challenges. While I could use my position to add “weight” to your influence, I will step in only on very rare occasions. I am here for advice and ideas to help you as needed, but I have complete trust in you to lead your team and your peers as needed.
+
+### Our Culture
+Our organization has a culture of **accountability**, **transparency**, and **safety**. This means that we commit to delivering things together, communicate *constantly* on status and risks, and that when we fail (and we should *strive* to fail) that we own up to it and use it as a learning experience with no blame or judgement involved. 
+
+That said, it's hard to keep this culture strong as the organization grows, but I encourage everyone to call it out anytime that we're not walking the talk with culture.
 
 ### How I manage
 I read and study a lot about management and leadership - and a fair number of books about software engineering and architecture. I find that some books have good ideas, some are awful, and some are in between. What I've learned most from gathering all of these ideas from books is to form my own opinions. I'm not sure if the books guided me, or if I just had more acceptance for the books that aligned with my values and experiences. Nevertheless, my management and leadership philosophy cannot be explained without a few references to existing ideas.
