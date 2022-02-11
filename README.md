@@ -5,12 +5,12 @@ This is the owner's manual of sorts, or a "manager readme" for anyone who works 
 Also worth mentioning is that if you're not new to the company, but new to me, all of this should be just as relevant.
 
 ### 1 on 1 Meetings
-I value connecting with my team regularly. I'll set up a weekly 30-minute meeting with each of my direct reports (but encourage you to suggest times that may work better for you). I'll keep our set time 90% of the time, but sometimes I (or Erica, who helps me with my calendar) will need to reschedule. This should be rare, and you can suggest different times as needed.
+I value connecting with my team regularly. I'll set up a weekly 30-minute meeting with each of my direct reports (but encourage you to suggest times that may work better for you). I'll keep our set time 90% of the time, but sometimes I (or Mel, who helps me with my calendar) will need to reschedule. This should be rare, and you can suggest different times as needed.
 
-If I'm traveling (not likely until at least late 2021), I will plan to have our 1o1 during our scheduled time, but on some occasions I may need to cancel if schedule and timezone oddities make our regular time impossible. Even if we need to cancel, I can always make time for a slack conversation or video f2f at some overlapping time. As a manager, I am here to help you be successful in achieving your mission at Unity, so use me for that as much as you want.
+If I'm traveling (not likely until at least Spring 2022), I will plan to have our 1o1 during our scheduled time, but on some occasions I may need to cancel if schedule and timezone oddities make our regular time impossible. Even if we need to cancel, I can always make time for a slack conversation or video f2f at some overlapping time. As a manager, I am here to help you be successful in achieving your mission at Unity, so use me for that as much as you want.
 
 #### Skip level 1 on 1 Meetings
-I'm open to ad-hoc, or scheduled meetings with anyone who wants to chat. Same rules as above apply to our schedule. I try (strive?) to have 1o1 meetings with everyone in the org, but sometimes the org grows faster than I can find time to get these things scheduled. If we don't have a recurring 1o1 on the calendar, feel free to schedule one.
+I'm open to ad-hoc, or scheduled meetings with anyone who wants to chat. Same rules as above apply to our schedule. I try (strive?) to have 1o1 meetings with everyone in the org, but sometimes the org grows faster than I can find time to get these things scheduled. If we don't have a recurring 1o1 on the calendar, feel free to schedule something with me anytime.
 
 ### Your Role as a Leader
 My job as a leader is to grow more leaders. Whether you're leading people, solving customer problem, or working with other teams, you should be able and willing to influence the team to change, improve, or add processes and tools to our systems. At times, you may need to change the mindset or beliefs of your team as you help them improve the way they approach making quality software.
@@ -20,7 +20,7 @@ I am committed to helping you become better leaders, and we’ll talk about lead
 ### Our Culture
 Our organization has a culture of **accountability**, **transparency**, and **safety**. This means that we commit to delivering things together, communicate *constantly* on status and risks, and that when we fail (and we should *strive* to fail) that we own up to it and use it as a learning experience with no blame or judgement involved. 
 
-That said, it's hard to keep this culture strong as the organization grows, but I encourage everyone to call it out anytime that we're not walking the talk with culture.
+That said, it's difficult to keep this culture strong as the organization grows, but I encourage everyone to call it out anytime that we're not walking the talk with culture.
 
 ### How I manage
 I read and study a lot about management and leadership - and a fair number of books about software engineering and architecture. I find that some books have good ideas, some are awful, and some are in between. What I've learned most from gathering all of these ideas from books is to form my own opinions. I'm not sure if the books guided me, or if I just had more acceptance for the books that aligned with my values and experiences. Nevertheless, my management and leadership philosophy cannot be explained without a few references to existing ideas.
@@ -48,7 +48,7 @@ We should work together to make sure you have enough ambitious work that you are
 An exercise with this model is to simply list the work you do in a sprint (or in a 1-2 week period), and then classify it into the three categories. The list should have a balance of enough Ambitious work that you're not overwhelmed, and little or no Mundane work - with Comfortable work to fill the gap. If the balance is off, we should discuss, as there's likely a way to find balance by shifting work around, discovering new work, or stopping work on some items entirely.
 
 ### 4. Feedback is Critical - for Everyone
-I will use the Unity 'Fierce Feedback' model frequently, and I also follow the model from Radical Candor (https://radicalcandor.com)
+I will use the Unity 'Fierce Feedback' model frequently, and I also follow the model from Radical Candor of, 'Care Personally, Challenge Directly' (https://radicalcandor.com)
 
 I will give you frequent feedback on your work and your impact. I've found that the value of feedback is highest when delivered as close as possible to the related action. When applicable, I will try to give feedback immediately, but it will often wait until our 1o1 meeting. We will have regular (3x a year) 3Q conversations, but I will NOT wait until our 3Q to give you important feedback - good or bad. 
 
