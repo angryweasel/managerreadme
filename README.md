@@ -5,9 +5,9 @@ This is the owner's manual of sorts, or a "manager readme" for anyone who works 
 Also worth mentioning is that if you're not new to the company, but new to me, all of this should be just as relevant.
 
 ### 1 on 1 Meetings
-I value connecting with my team regularly. I'll set up a weekly 30-minute meeting with each of my direct reports (but encourage you to suggest times that may work better for you). I'll keep our set time 90% of the time, but sometimes I (or Mel, who helps me with my calendar) will need to reschedule. This should be rare, and you can suggest different times as needed.
+I value connecting with my team regularly. I'll set up a weekly 30-minute meeting with each of my direct reports (but encourage you to suggest times that may work better for you). I'll keep our set time 90% of the time, but sometimes I will need to reschedule. This should be rare, and you can suggest different times as needed.
 
-If I'm traveling (not likely until at least Spring 2022), I will plan to have our 1o1 during our scheduled time, but on some occasions I may need to cancel if schedule and timezone oddities make our regular time impossible. Even if we need to cancel, I can always make time for a slack conversation or video f2f at some overlapping time. As a manager, I am here to help you be successful in achieving your mission at Unity, so use me for that as much as you want.
+If I'm traveling, I will plan to have our 1o1 during our scheduled time, but on some occasions I may need to cancel if schedule and timezone oddities make our regular time impossible. Even if we need to cancel, I can always make time for a slack conversation or video f2f at some overlapping time. As a manager, I am here to help you be successful in achieving your mission at Unity, so use me for that as much as you want.
 
 #### Skip level 1 on 1 Meetings
 I'm open to ad-hoc, or scheduled meetings with anyone who wants to chat. Same rules as above apply to our schedule. I try (strive?) to have 1o1 meetings with everyone in the org, but sometimes the org grows faster than I can find time to get these things scheduled. If we don't have a recurring 1o1 on the calendar, feel free to schedule something with me anytime.
@@ -39,9 +39,9 @@ Regardless of whether you work 10 feet from me or 10,000 kilometers, your succes
 ### 3. Improvement is a Priority
 I use two different frameworks to think about employee growth. The first is from Max Landsberg - but I first read about it in Michael Lopp's fantastic book, Managing Humans (http://managinghumans.com/). It's a quadrant of skill and will. You may spend time in each of the parts of the quadrant from time to time, but my role as a manager / coach is to guide you towards high skill, high will work as much as possible. This is where you provide the most value to Unity, and where your strengths and skills grow the fastest.
 
-![skill and will](http://www.leadershipissues.com/wp-content/uploads/2016/02/will.gif "skill and will")
+![skill and will](https://danspira.files.wordpress.com/2010/11/skill-will-coaching-details.gif "skill and will")
 
-The other model I use is highly related. It's my own, so the name is in flux. For now, I'm calling it the **ACM framework** (Ambitious, Comfortable, Mundane). The idea is that if you look at the work you do over a week / sprint, some of that work is new, challenging, or ambitious, a big chunk of work is stuff that you're just really good at (comfortable work), and you may end up with some work that you're overqualified for, or is boring, but that just needs to get done (mundane).
+The other model I use is highly related. It's my own, so the name is in flux. For now, I'm calling it the **ACM framework** (Ambitious, Comfortable, Mundane). The idea is that if you look at the work you do over a week / sprint / quarter, some of that work is new, challenging, or **ambitious**, a big chunk of work is stuff that you're just really good at (**comfortable** work), and you may end up with some work that you're overqualified for, or is boring, but that just needs to get done (**mundane**).
 
 We should work together to make sure you have enough ambitious work that you are challenged and growing, if you're not learning something new every week, that's something we should work on together. We also want to minimize your mundane work. Often, your mundane work may be someone else's ambitious work. 
 
